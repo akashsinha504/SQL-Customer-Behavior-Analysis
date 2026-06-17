@@ -6,7 +6,7 @@ USE customer_behaviour_analysis;
 ## Creating table structure. 
 
 CREATE TABLE customers (
-    custocustomersmer_id VARCHAR(20),
+    customersmer_id VARCHAR(20),
     first_name VARCHAR(50),
     last_name VARCHAR(50),
     country VARCHAR(50),
