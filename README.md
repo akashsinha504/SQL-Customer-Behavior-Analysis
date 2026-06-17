@@ -46,21 +46,14 @@ This project analyzes customer behavior data using SQL. The objective is to unde
 
 ## Project Screenshots
 
-### Age Segmentation Analysis
+![Age Segmentation](04_age_segmentation.png)
 
-![Age Segmentation](screenshots/04_age_segmentation.png)
+![Premium Percentage](08_premium_percentage_country.png)
 
-### Premium Customer Analysis
+![Country Ranking](06_premium_country_ranking.png)
 
-![Premium Percentage](screenshots/08_premium_percentage_country.png)
+![Registration Trend](09_registration_by_year.png)
 
-### Premium Customer Ranking
-
-![Country Ranking](screenshots/06_premium_country_ranking.png)
-
-### Registration Trend
-
-![Registration Trend](screenshots/09_registration_by_year.png)
 
 ## Project Structure
 
