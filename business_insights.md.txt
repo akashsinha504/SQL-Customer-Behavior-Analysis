@@ -1,0 +1,34 @@
+# Business Insights
+
+## Key Findings
+
+- Total customers: 8000
+
+- Male customers: 3900
+- Female customers: 3805
+- Other: 295
+
+- Middle Age customers are the largest segment with 2853 customers.
+
+- Premium customers: 1749
+- Non-Premium customers: 6251
+
+- USA has the highest premium customer count with 551 premium customers.
+
+- Spain has the highest premium conversion rate at 24.27%.
+
+- Germany has the highest email verification rate at 93.33%.
+
+- Customer registrations remained stable:
+  - 2020: 4012
+  - 2021: 3981
+
+## Recommendations
+
+- Focus premium membership campaigns on USA, UK, and Germany.
+
+- Increase premium conversion in countries with high customer counts but lower premium percentages.
+
+- Maintain strong email verification practices.
+
+- Target Middle Age customers through personalized marketing campaigns.
