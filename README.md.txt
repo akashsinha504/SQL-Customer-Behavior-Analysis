@@ -44,6 +44,24 @@ This project analyzes customer behavior data using SQL. The objective is to unde
 * Spain has the highest premium conversion rate (24.27%)
 * Germany has the highest email verification rate (93.33%)
 
+## Project Screenshots
+
+### Age Segmentation Analysis
+
+![Age Segmentation](screenshots/04_age_segmentation.png)
+
+### Premium Customer Analysis
+
+![Premium Percentage](screenshots/08_premium_percentage_country.png)
+
+### Premium Customer Ranking
+
+![Country Ranking](screenshots/06_premium_country_ranking.png)
+
+### Registration Trend
+
+![Registration Trend](screenshots/09_registration_by_year.png)
+
 ## Project Structure
 
 Dataset/
